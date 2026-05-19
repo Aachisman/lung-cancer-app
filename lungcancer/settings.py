@@ -25,7 +25,7 @@ SECRET_KEY = "django-insecure-cxgkqzvbl0w4hvo5n0v-i9qps8$o!6^b)uw3zf@vas&u33j^#@
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['lung-cancer-app.onrender.com']
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
